@@ -5,7 +5,7 @@
 - local_planner (DWAPlannerROS)
 - global_planner (dijkstra)
 
-## ros package構成 (branch)
+## ros package (branch)
 - [orne_box (TC_2024_EX)](https://github.com/open-rdc/orne-box/tree/TC_2024_EX)
 move_baseを含む自律移動に必要なものがまとめてあるパッケージ
 - [map_changer(master)](https://github.com/open-rdc/map_changer/tree/8ec95979d6ce3147d2514ee4d2d12c18706bac8a)
