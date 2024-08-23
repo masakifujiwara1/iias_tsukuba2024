@@ -1,0 +1,77 @@
+waypoint_server:
+  scale: 1
+  position:
+    x: 1
+    y: 2
+    z: 3
+  euler_angles:
+    x: 0
+    y: 0
+    z: 1.57
+  waypoints:
+    - id: registed_0_1711529287394698610
+      position:
+        x: 16.14846
+        y: -2.651497
+        z: -3
+      euler_angles:
+        x: -0
+        y: 0
+        z: 1.569306
+      properties:
+        - key: area_waypoint_OFF
+          value: ""
+        - key: switch_segmentation_ON
+          value: ""
+        - key: traffic_sign_OFF
+          value: ""
+        - key: switch_segmentation_OFF
+          value: ""
+        - key: traffic_sign_ON
+          value: ""
+        - key: area_waypoint_ON
+          value: ""
+        - key: area_select_OFF
+          value: ""
+        - key: white
+          value: ""
+        - key: standby_mode
+          value: ""
+        - key: stop
+          value: true
+        - key: detect_box_OFF
+          value: ""
+        - key: area_select_ON
+          value: ""
+        - key: detect_box_ON
+          value: ""
+    - id: registed_0_1722812083099145056
+      position:
+        x: 17.10682
+        y: 2.067957
+        z: -3
+      euler_angles:
+        x: 0
+        y: 0
+        z: -1.57
+      properties:
+        - key: stop
+          value: true
+    - id: registed_0_1722812351190820928
+      position:
+        x: -0.9622129
+        y: -2.458261
+        z: -3.000001
+      euler_angles:
+        x: 0
+        y: 0
+        z: -1.57
+    - id: registed_0_1722812376261904512
+      position:
+        x: -0.9158764
+        y: -8.408718
+        z: -3.000001
+      euler_angles:
+        x: 0
+        y: 0
+        z: -1.57
